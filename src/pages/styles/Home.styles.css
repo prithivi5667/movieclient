@@ -1,0 +1,37 @@
+@media (min-width: 300px) {
+  .trendingCard {
+    margin-top: 50px;
+  }
+  .nowPlayingCard {
+    margin-top: 80px;
+  }
+  .upComingCard {
+    margin-top: 60px;
+  }
+  
+}
+@media (min-width: 768px) {
+  .trendingCard {
+    margin-top: 80px;
+  }
+
+  .nowPlayingCard {
+    margin-top: 90px;
+  }
+  .upComingCard {
+    margin-top: 80px;
+  }
+
+}
+@media (min-width: 1024px) {
+  .trendingCard {
+    margin-top: 50px;
+  }
+  .nowPlayingCard {
+    margin-top: 60px;
+  }
+  .upComingCard {
+    margin-top: 60px;
+  }
+  
+}
